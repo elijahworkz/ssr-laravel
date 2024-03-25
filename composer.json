@@ -3,7 +3,7 @@
     "description": "Simple server side renderer for laravel applications",
     "type": "project",
     "require": {
-        "illuminate/support": "^12.0@dev"
+        "symfony/process": "^7.0"
     },
     "license": "MIT",
     "autoload": {
@@ -17,6 +17,5 @@
             "email": "elijahworkz@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "version": "0.1"
 }
